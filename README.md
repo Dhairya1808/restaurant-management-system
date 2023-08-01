@@ -1,4 +1,4 @@
-# restaurant-management-system
+# Restaurant Management System
 A console based program of restaurant management system. Implementation of this program is done using linked list data structure.
 It has two modules:
 1. Admin
